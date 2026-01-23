@@ -28,7 +28,7 @@ I enjoy building real-world projects and continuously improving my technical and
 
 ### ⚡ Vibe Coding Tools I Use
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge&logo=heart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bolt-6366F1?style=for-the-badge&logo=lightning&logoColor=white"/>
