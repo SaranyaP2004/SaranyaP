@@ -56,7 +56,8 @@ An IoT-based accident prevention and emergency alerting system designed to impro
 IoT Sensors, GPS Module, GSM Module, Embedded Systems 
 
 <p align="center">
-  <img src="LifeSaver.png" width="500" />
+ <img width="1536" height="1024" alt="Life Saver" src="https://github.com/user-attachments/assets/2e8d457e-c723-479e-802f-75228d1abcb4" />
+
 </p>
 
 ---
@@ -75,7 +76,8 @@ A QR-based digital food ordering system to simplify restaurant ordering and redu
 HTML, CSS, JavaScript, QR Code Integration, Database  
 
 <p align="center">
-  <img src="smartfoodordering.png" width="500" />
+ <img width="1536" height="1024" alt="smart food ordering" src="https://github.com/user-attachments/assets/3bd62212-ce4d-433b-8a38-43266333df2d" />
+
 </p>
 
 ---
@@ -93,8 +95,9 @@ A full-stack rental platform for browsing, booking, and managing household appli
 **Technologies Used:**  
 React, Node.js, Express, MongoDB  
 
-<p align="center">
-  <img src="rentaxmatrix.png" width="500" />
+<p align<img width="1536" height="1024" alt="rentaxmatrix" src="https://github.com/user-attachments/assets/020582ee-57bc-4250-ae34-2310094f0119" />
+="center">
+  
 </p>
 
 ---
