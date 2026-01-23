@@ -95,11 +95,11 @@ A full-stack rental platform for browsing, booking, and managing household appli
 **Technologies Used:**  
 React, Node.js, Express, MongoDB  
 
-<p align<img width="1536" height="1024" alt="rentaxmatrix" src="https://github.com/user-attachments/assets/020582ee-57bc-4250-ae34-2310094f0119" />
-="center">
-  
-</p>
+<p align="center">
+<img width="1536" height="1024" alt="rentaxmatrix" src="https://github.com/user-attachments/assets/15142fe2-fa8d-4158-a870-ee03a9c332d8" />
 
+
+</p
 ---
 
 <!-- Internship Card -->
